@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hola/static/css/main.db62923b.css",
+    "main.js": "/hola/static/js/main.dc72845c.js",
+    "static/js/453.822628c3.chunk.js": "/hola/static/js/453.822628c3.chunk.js",
+    "index.html": "/hola/index.html",
+    "main.db62923b.css.map": "/hola/static/css/main.db62923b.css.map",
+    "main.dc72845c.js.map": "/hola/static/js/main.dc72845c.js.map",
+    "453.822628c3.chunk.js.map": "/hola/static/js/453.822628c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.dc72845c.js"
+  ]
+}
